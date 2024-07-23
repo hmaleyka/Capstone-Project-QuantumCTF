@@ -16,3 +16,8 @@ Brute Force Challenges: Test your password-cracking skills with various brute fo
 Maze Challenges: Navigate through complex directory structures to find hidden files.
 Fake Leading Tasks: Identify and bypass cleverly crafted distractions to locate the true flag.
 Compatibility: All challenges are designed to work seamlessly on Ubuntu and various Linux distributions.
+
+
+Special Thanks to my group mates Teymur for creating this project together.
+
+** Maleyka Heybatova **
